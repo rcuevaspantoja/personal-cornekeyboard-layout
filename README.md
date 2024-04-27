@@ -1,6 +1,6 @@
 # Personal QMK CorneKeyboard Layout
  
- This is my personal QMK config file and keymap oriented to developers in Mac OS. I included a PDF version of the layout useful for having a printed referece. At the end of this document you can find the same PDF on images as a reference aswell.
+ This is my personal QMK config file and keymap oriented to developers in Mac OS. I included a PDF version of the layout, useful for having a printed referece.
 
 ## Required Knowledge
 
